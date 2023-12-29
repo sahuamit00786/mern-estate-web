@@ -30,7 +30,7 @@ function Header() {
         <Link to="/">
           <h1 className="font-bold text-sm sm:text-2xl flex flex-wrap">
             <span className="text-slate-500">Dream </span>
-            <span className="text-green-700">Adobe</span>
+            <span className="text-green-700">Abode</span>
           </h1>
         </Link>
 
