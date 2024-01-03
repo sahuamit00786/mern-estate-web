@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div className="py-20 px-4 max-w-6xl mx-auto">
       <h1 className="text-3xl font-bold mb-4 text-slate-800">
-        About Dream Abode
+        About Prime Space
       </h1>
       <div className="w-full my-4  mb-8 border border-4  shadow-xl">
         <img
@@ -15,7 +15,7 @@ export default function About() {
       </div>
       <div>
         <p className="mb-4 text-slate-700">
-          Dream Abode is a leading real estate agency that specializes in
+        Prime Space is a leading real estate agency that specializes in
           helping clients buy, sell, and rent properties in the most desirable
           neighborhoods. Our team of experienced agents is dedicated to
           providing exceptional service and making the buying and selling
